@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Grandiose Hotels New York",
+        "city": "New York",
+        "rooms": 113,
+        "rate": 391.17
+    },
+    {
+        "name": "Grandiose Hotels Los Angeles",
+        "city": "Los Angeles",
+        "rooms": 74,
+        "rate": 433.53
+    },
+    {
+        "name": "Grandiose Hotels Chicago",
+        "city": "Chicago",
+        "rooms": 192,
+        "rate": 223.33
+    },
+    {
+        "name": "Grandiose Hotels Houston",
+        "city": "Houston",
+        "rooms": 133,
+        "rate": 283.63
+    },
+    {
+        "name": "Grandiose Hotels Phoenix",
+        "city": "Phoenix",
+        "rooms": 100,
+        "rate": 328.61
+    },
+    {
+        "name": "Grandiose Hotels Philadelphia",
+        "city": "Philadelphia",
+        "rooms": 190,
+        "rate": 396.98
+    },
+    {
+        "name": "Grandiose Hotels San Antonio",
+        "city": "San Antonio",
+        "rooms": 109,
+        "rate": 208.4
+    },
+    {
+        "name": "Grandiose Hotels San Diego",
+        "city": "San Diego",
+        "rooms": 100,
+        "rate": 496.78
+    },
+    {
+        "name": "Grandiose Hotels Dallas",
+        "city": "Dallas",
+        "rooms": 159,
+        "rate": 271.97
+    },
+    {
+        "name": "Grandiose Hotels San Jose",
+        "city": "San Jose",
+        "rooms": 103,
+        "rate": 417.86
+    }
+]
